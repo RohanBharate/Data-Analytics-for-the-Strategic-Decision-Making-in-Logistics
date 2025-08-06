@@ -74,9 +74,9 @@ The analysis focused on the following key areas to improve logistics operations 
 
 | File | Description |
 |------|-------------|
-| `Case_Study_Report.pdf` | Final university report (group work) |
+| `Data_Analytics_for_the_strategic_decision_making_in_Logistics.pdf` | Individual Work |
 | `SUPPLY_CHAIN_DATASET.xlsx` | Excel data file with all pivot tables |
-| `visuals/` | Folder containing PNGs of all charts |
+| `Graphical_Representation/` | Folder containing PNGs of all charts |
 | `README.md` | This documentation file |
 
 ---
@@ -92,5 +92,6 @@ This project was completed as part of a group case study during my Master’s de
 If you liked this project or have feedback, feel free to connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohanbharate)
-- 📧 rohanbharate@gmail.com
+- 📧 bharaterohan25@gmail.com
+
 
